@@ -30,3 +30,12 @@
     transform: rotate(360deg);
   }
 }
+
+h2{
+ 
+  background-color: maroon;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 32px;
+}
+
